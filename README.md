@@ -21,7 +21,7 @@ CPP는 UPIS를 기반으로 설계된 고정밀의 축소 모델입니다.
 ### CPP (Compact Precision Prototype)
 ![CPP](https://github.com/JeongyongShin/ESP32/blob/main/png/cpp.png?raw=true)
 
-### ESP32 관련 이미지
+### CPP 관련 이미지
 ![ESP32 Image 1](https://github.com/JeongyongShin/ESP32/blob/main/png/esp_1.png?raw=true)
 
 ![ESP32 Image 2](https://github.com/JeongyongShin/ESP32/blob/main/png/esp_2.png?raw=true)
